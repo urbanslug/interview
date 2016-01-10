@@ -1,0 +1,332 @@
+{
+    "number_functional": 623,
+    "number_water_points": {
+        "Kubore": 13,
+        "Kanbangsa": 8,
+        "Kalaasa": 1,
+        "Jiriwiensa": 8,
+        "Nayoku": 29,
+        "Jaata": 8,
+        "Mwalorinsa": 8,
+        "Zuedema": 18,
+        "Jiningsa": 7,
+        "Kulbugu": 10,
+        "Akpari-yeri": 3,
+        "Guuta": 30,
+        "Chanpolinsa": 3,
+        "Tuisa": 4,
+        "Logvasgsa": 4,
+        "Kunkwah": 3,
+        "Jiniensa": 1,
+        "Longsa": 7,
+        "Zanwara": 6,
+        "Vundema": 5,
+        "Arigu": 6,
+        "Zogsa": 5,
+        "Nyankpiensa": 8,
+        "Kurugu": 5,
+        "Nabulugu": 27,
+        "Tantala": 16,
+        "Soo": 4,
+        "Kpatarigu": 46,
+        "Jagsa": 32,
+        "Chansa": 9,
+        "Zukpeni": 2,
+        "Gumaryili": 1,
+        "Kom": 6,
+        "Bechinsa": 26,
+        "Suik": 1,
+        "Gbaarigu": 2,
+        "Dorinsa": 16,
+        "Selinvoya": 12,
+        "Fiisa": 5,
+        "Dibisi": 2,
+        "Badomsa": 27,
+        "Chondema": 4,
+        "Namgurima": 4,
+        "Loagri_1_": 14,
+        "Garigu": 1,
+        "Jiningsa-Yipaala": 3,
+        "Zangu-Vuga": 11,
+        "Guuta-Nasa": 11,
+        "Piisa": 5,
+        "Nawaasa": 5,
+        "Tankangsa": 6,
+        "Kpikpaluk": 3,
+        "Luisa": 8,
+        "Zundem": 30,
+        "Nyandema": 3,
+        "Gbima": 2,
+        "Sikabsa": 3,
+        "Abanyeri": 4,
+        "Gaadem": 2,
+        "Alavanyo": 2,
+        "Banyangsa": 7,
+        "Zua": 24,
+        "Bandem": 4,
+        "Kanwaasa": 8,
+        "Kaasa": 25
+    },
+    "community_ranking": [
+        [
+            "Garigu",
+            1
+        ],
+        [
+            "Gumaryili",
+            1
+        ],
+        [
+            "Jiniensa",
+            1
+        ],
+        [
+            "Kalaasa",
+            1
+        ],
+        [
+            "Suik",
+            1
+        ],
+        [
+            "Alavanyo",
+            2
+        ],
+        [
+            "Dibisi",
+            2
+        ],
+        [
+            "Gaadem",
+            2
+        ],
+        [
+            "Gbaarigu",
+            2
+        ],
+        [
+            "Gbima",
+            2
+        ],
+        [
+            "Zukpeni",
+            2
+        ],
+        [
+            "Akpari-yeri",
+            3
+        ],
+        [
+            "Chanpolinsa",
+            3
+        ],
+        [
+            "Jiningsa-Yipaala",
+            3
+        ],
+        [
+            "Kpikpaluk",
+            3
+        ],
+        [
+            "Kunkwah",
+            3
+        ],
+        [
+            "Nyandema",
+            3
+        ],
+        [
+            "Sikabsa",
+            3
+        ],
+        [
+            "Abanyeri",
+            4
+        ],
+        [
+            "Bandem",
+            4
+        ],
+        [
+            "Chondema",
+            4
+        ],
+        [
+            "Logvasgsa",
+            4
+        ],
+        [
+            "Namgurima",
+            4
+        ],
+        [
+            "Soo",
+            4
+        ],
+        [
+            "Tuisa",
+            4
+        ],
+        [
+            "Fiisa",
+            5
+        ],
+        [
+            "Kurugu",
+            5
+        ],
+        [
+            "Nawaasa",
+            5
+        ],
+        [
+            "Piisa",
+            5
+        ],
+        [
+            "Vundema",
+            5
+        ],
+        [
+            "Zogsa",
+            5
+        ],
+        [
+            "Arigu",
+            6
+        ],
+        [
+            "Kom",
+            6
+        ],
+        [
+            "Tankangsa",
+            6
+        ],
+        [
+            "Zanwara",
+            6
+        ],
+        [
+            "Banyangsa",
+            7
+        ],
+        [
+            "Jiningsa",
+            7
+        ],
+        [
+            "Longsa",
+            7
+        ],
+        [
+            "Jaata",
+            8
+        ],
+        [
+            "Jiriwiensa",
+            8
+        ],
+        [
+            "Kanbangsa",
+            8
+        ],
+        [
+            "Kanwaasa",
+            8
+        ],
+        [
+            "Luisa",
+            8
+        ],
+        [
+            "Mwalorinsa",
+            8
+        ],
+        [
+            "Nyankpiensa",
+            8
+        ],
+        [
+            "Chansa",
+            9
+        ],
+        [
+            "Kulbugu",
+            10
+        ],
+        [
+            "Guuta-Nasa",
+            11
+        ],
+        [
+            "Zangu-Vuga",
+            11
+        ],
+        [
+            "Selinvoya",
+            12
+        ],
+        [
+            "Kubore",
+            13
+        ],
+        [
+            "Loagri_1_",
+            14
+        ],
+        [
+            "Dorinsa",
+            16
+        ],
+        [
+            "Tantala",
+            16
+        ],
+        [
+            "Zuedema",
+            18
+        ],
+        [
+            "Zua",
+            24
+        ],
+        [
+            "Kaasa",
+            25
+        ],
+        [
+            "Bechinsa",
+            26
+        ],
+        [
+            "Badomsa",
+            27
+        ],
+        [
+            "Nabulugu",
+            27
+        ],
+        [
+            "Nayoku",
+            29
+        ],
+        [
+            "Guuta",
+            30
+        ],
+        [
+            "Zundem",
+            30
+        ],
+        [
+            "Jagsa",
+            32
+        ],
+        [
+            "Kpatarigu",
+            46
+        ]
+    ]
+}
